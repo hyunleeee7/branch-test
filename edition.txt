@@ -5,3 +5,4 @@ issue resolved
 hotfix my solution
 Hotfix my new solution
 New function added
+Team updated
